@@ -1,25 +1,50 @@
-### Hello there 👋
+# 👋 Hi, I’m Gregory
 
-I'm currently studying Informatics at **Aristotle University of Thessaloniki**.
+🎓 MSc in Data and Web Science – Aristotle University of Thessaloniki  
+💻 Data Scientist with experience in demand forecasting, ML prototyping, and scalable data solutions  
+🧠 Interested in Natural Language Processing, especially its applications in healthcare and accessibility  
+📍 Based in Thessaloniki, Greece  
+📬 [gregorybarbas@gmail.com](mailto:gregorybarbas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gbarmpas)
 
-My interests are **Artificial Intelligence** and **Data Security**.
+---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GregB712&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 About Me
 
-#### My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregB712&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+I'm a data scientist with a solid background in time series forecasting, statistical modeling, and machine learning, passionate about building tools that solve real-world problems. My recent work has focused on demand forecasting for retail and supply chain optimization, where I’ve designed scalable forecasting pipelines, led client demos, and created in-house automation tools to improve efficiency.
 
-<!--
-**GregB712/GregB712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also deeply interested in **Natural Language Processing (NLP)**—especially in using LLMs to improve how people access and understand complex information. My Master's Thesis explored plain language summarization of clinical trials using models like DistilBERT and Mistral-7B.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Featured Projects
+
+- **🧠 Master's Thesis – Plain Language Summarization of Clinical Trials**  
+  Developed a dataset and evaluated transformer models (DistilBERT, Mistral-7B) to make clinical trial outcomes more accessible to the public.  
+  → [Check out the repo](https://github.com/GregB712/PLS_of_Clinical_Trials)
+
+- **📊 Demand Forecasting Pipeline @ Dataviva**  
+  Built production-ready forecasting solutions using statistical + ML methods, leading technical POCs and improving forecast accuracy.
+
+- **🔧 Custom Applications @ Veltio**  
+  Designed forecasting tools for global retail clients, tailored to complex business needs in supply chain.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, Java, C++, SQL  
+- **ML/NLP:** scikit-learn, Hugging Face Transformers, PyTorch  
+- **Tools:** Kubernetes, MongoDB, LangChain  
+- **Other:** Git, Linux, Jupyter, Streamlit
+
+---
+
+## ✨ Currently Looking To...
+
+📢 Share more of my work on GitHub 
+
+📈 Keep learning and pushing boundaries in ML/AI
+
+---
+
+Thanks for visiting! 🚀
