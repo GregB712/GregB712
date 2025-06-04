@@ -21,12 +21,13 @@ I'm also deeply interested in **Natural Language Processing (NLP)**—especially
 - **🧠 Master's Thesis – Plain Language Summarization of Clinical Trials**  
   Developed a dataset and evaluated transformer models (DistilBERT, Mistral-7B) to make clinical trial outcomes more accessible to the public.  
   → [Check out the repo](https://github.com/GregB712/PLS_of_Clinical_Trials)
+  
+- **📰 LLM Finance Summaries**  
+  Leverage Large Language Models (LLMs) to generate concise summaries of financial and news articles, with tools for evaluation, visualization, and interactive exploration. 
+  → [Check out the repo](https://github.com/GregB712/LLM_Finance_Summaries)
 
 - **📊 Demand Forecasting Pipeline @ Dataviva**  
   Built production-ready forecasting solutions using statistical + ML methods, leading technical POCs and improving forecast accuracy.
-
-- **🔧 Custom Applications @ Veltio**  
-  Designed forecasting tools for global retail clients, tailored to complex business needs in supply chain.
 
 ---
 
