@@ -26,8 +26,8 @@ I'm also deeply interested in **Natural Language Processing (NLP)**—especially
   Leverage Large Language Models (LLMs) to generate concise summaries of financial and news articles, with tools for evaluation, visualization, and interactive exploration. 
   → [Check out the repo](https://github.com/GregB712/LLM_Finance_Summaries)
 
-- **📊 Demand Forecasting Pipeline @ Dataviva**  
-  Built production-ready forecasting solutions using statistical + ML methods, leading technical POCs and improving forecast accuracy.
+- **📊 Probabilistic Demand Forecasting**  
+  This repository contains my solution to a demand forecasting challenge involving the prediction of daily probabilistic demand distributions for item-store combinations.
 
 ---
 
