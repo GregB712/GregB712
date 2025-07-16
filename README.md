@@ -28,6 +28,7 @@ I'm also deeply interested in **Natural Language Processing (NLP)**—especially
 
 - **📊 Probabilistic Demand Forecasting**  
   This repository contains my solution to a demand forecasting challenge involving the prediction of daily probabilistic demand distributions for item-store combinations.
+  → [Check out the repo](https://github.com/GregB712/Probabilistic_Demand_Forecasting)
 
 ---
 
