@@ -1,9 +1,13 @@
 # 👋 Hi, I’m Gregory Barmpas
 
 🎓 MSc in Data and Web Science – Aristotle University of Thessaloniki
+
 💼 Senior Data Scientist | AI Engineer | Generative AI
+
 🤖 Experienced in Machine Learning, Demand Forecasting, NLP, LLM Applications, RAG, and Production AI Systems
+
 📍 Based in Thessaloniki, Greece
+
 📬 [gregorybarbas@gmail.com](mailto:gregorybarbas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gbarmpas) | [GitHub](https://github.com/GregB712)
 
 ---
