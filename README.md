@@ -144,8 +144,11 @@ A demand forecasting challenge solution involving the prediction of daily probab
 ## ✨ Currently Focused On
 
 🤖 Building production-ready AI and LLM applications
+
 🔎 Exploring RAG, semantic search, and agentic AI systems
+
 📊 Improving forecasting and predictive analytics workflows
+
 📢 Sharing more practical ML, NLP, and Generative AI projects on GitHub
 
 ---
