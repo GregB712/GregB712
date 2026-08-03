@@ -2,7 +2,7 @@
 
 🎓 MSc in Data and Web Science – Aristotle University of Thessaloniki
 
-💼 Senior Data Scientist | AI Engineer | Generative AI
+💼 Data Scientist | AI Engineer | Generative AI
 
 🤖 Experienced in Machine Learning, Demand Forecasting, NLP, LLM Applications, RAG, and Production AI Systems
 
