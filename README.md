@@ -137,8 +137,8 @@ Demand forecasting challenge solution for predicting daily probabilistic demand 
 
 ## GitHub Activity
 
-![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregB712&show_icons=true&theme=default&hide_border=true)
+[![Gregory's GitHub stats](https://github-stats-extended.vercel.app/api?username=GregB712&show_icons=true&theme=default&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GregB712&layout=compact&theme=default&hide_border=true)
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=GregB712&layout=compact&theme=default&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 Thanks for visiting.
