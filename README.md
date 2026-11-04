@@ -164,4 +164,6 @@ Build, enrich, and play Spotify playlists from richer metadata than Spotify expo
 
 [![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=GregB712&layout=compact&theme=default&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/koi.gif" width="256" alt="My git-koi: a pixel-art koi drawn from my GitHub activity" /></a>
+
 Thanks for visiting.

@@ -1,0 +1,32 @@
+name: git-koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # nightly, after the day ends (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          output-dir: koi
+
+      - name: Commit koi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add koi/
+          if git diff --cached --quiet; then
+            echo "No koi changes"
+          else
+            git commit -m "Update koi"
+            git push
+          fi
