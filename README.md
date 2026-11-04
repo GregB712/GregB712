@@ -25,17 +25,35 @@ I build practical AI systems across machine learning, forecasting, NLP, retrieva
 
 ## Featured Projects
 
-### [Loomi Brain](https://github.com/GregB712/Loomi-Brain)
+### [Portfolio](https://github.com/GregB712/Portofolio) · [Live demo](https://portofolio-one-liart.vercel.app)
 
-A secure AI second brain for document intelligence, cited RAG, agentic workflows, MCP integrations, reusable skills, memory, and LLM observability across local and cloud models.
+Full-stack AI/Data Science portfolio with a database-backed project showcase, protected admin dashboard, GitHub metadata sync, contact management, custom analytics, and Vercel/Neon deployment.
 
-**Tech:** Python, LLMs, RAG, agents, memory, MCP, retrieval, observability
+**Tech:** Next.js, TypeScript, React, Tailwind CSS, Prisma, PostgreSQL (Neon), Auth.js, Resend, Vercel
+
+### [Plain Language Summarization of Clinical Trials](https://github.com/GregB712/PLS_of_Clinical_Trials) · [Live demo](https://pls-of-clinical-trials.vercel.app)
+
+Plain-language summarization of clinical trial documents: a CPU-first, reproducible NLP pipeline with hosted-LLM summarization, RAG, evaluation, and a FastAPI + React web app.
+
+**Tech:** Python, NLP, LLMs, RAG, text summarization, FastAPI, React, TypeScript
+
+### [Scope](https://github.com/GregB712/scope) · [Live demo](https://scope-sooty.vercel.app)
+
+AI-powered newsroom that imports daily Markdown briefings from Google Drive into a searchable editorial archive.
+
+**Tech:** Next.js, TypeScript, PostgreSQL (Neon), Drizzle ORM, full-text search, Clerk, Claude, Google Drive API
 
 ### [Would You Rather App](https://github.com/GregB712/would_you_rather_app) · [Live demo](https://would-you-rather-app-six.vercel.app)
 
 Full-stack Next.js game with PostgreSQL-backed questions, voting, mode selection, Prisma migrations, seed/import tooling, and database-level duplicate prevention.
 
 **Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Vercel, Neon
+
+### [Azure Data Science Academy](https://github.com/GregB712/azure-data-science-academy) · [Live demo](https://azure-data-science-academy.vercel.app)
+
+A self-paced course for designing, building, deploying, and operating data science and AI systems on Azure: Markdown lessons and labs, runnable Delta/medallion code, a retail-forecasting capstone, and a local dashboard with search and progress tracking.
+
+**Tech:** Python, Azure Machine Learning, Databricks, Delta Lake, Microsoft Fabric, MLOps, RAG
 
 ### [Custom Retrieval Pipeline with Reranker](https://github.com/GregB712/custom-retrieval-pipeline-with-reranker)
 
@@ -61,23 +79,17 @@ From-scratch tokenizer engineering project implementing BPE, byte-level BPE, Wor
 
 **Tech:** Python, NLP, tokenization, BPE, WordPiece, SentencePiece, Hugging Face, FastAPI
 
+### [Loomi Brain](https://github.com/GregB712/Loomi-Brain)
+
+A secure AI second brain for document intelligence, cited RAG, agentic workflows, MCP integrations, reusable skills, memory, and LLM observability across local and cloud models.
+
+**Tech:** Python, LLMs, RAG, agents, memory, MCP, retrieval, observability
+
 ### [PDF to Markdown AI Converter](https://github.com/GregB712/pdf-to-markdown-ai-converter)
 
 AI-powered tool for converting PDFs into clean Markdown for documentation, knowledge-base, and RAG preparation workflows, with Gemini, OpenAI, Docling, local cleanup, and Markdown preview/export.
 
 **Tech:** TypeScript, PDF processing, Markdown, document processing, RAG preparation
-
-### [Azure Data Science Academy](https://github.com/GregB712/azure-data-science-academy) · [Live demo](https://azure-data-science-academy.vercel.app)
-
-A self-paced course for designing, building, deploying, and operating data science and AI systems on Azure: Markdown lessons and labs, runnable Delta/medallion code, a retail-forecasting capstone, and a local dashboard with search and progress tracking.
-
-**Tech:** Python, Azure Machine Learning, Databricks, Delta Lake, Microsoft Fabric, MLOps, RAG
-
-### [Scope](https://github.com/GregB712/scope) · [Live demo](https://scope-sooty.vercel.app)
-
-AI-powered newsroom that imports daily Markdown briefings from Google Drive into a searchable editorial archive.
-
-**Tech:** Next.js, TypeScript, PostgreSQL (Neon), Drizzle ORM, full-text search, Clerk, Claude, Google Drive API
 
 ### [Mixloom](https://github.com/GregB712/mixloom)
 
@@ -87,8 +99,6 @@ Build, enrich, and play Spotify playlists from richer metadata than Spotify expo
 
 ### More on GitHub
 
-- [Portfolio](https://github.com/GregB712/Portofolio) · [Live](https://portofolio-one-liart.vercel.app) — full-stack AI/Data Science portfolio with Next.js, Prisma, Auth.js, Neon, Resend, and a database-backed admin dashboard
-- [Plain Language Summarization of Clinical Trials](https://github.com/GregB712/PLS_of_Clinical_Trials) · [Live](https://pls-of-clinical-trials.vercel.app) — reproducible NLP pipeline with LLM summarization, RAG, evaluation, and a FastAPI + React web app
 - [Probabilistic Demand Forecasting](https://github.com/GregB712/Probabilistic_Demand_Forecasting) — daily probabilistic demand distributions for item-store combinations
 
 ## Tech Stack
