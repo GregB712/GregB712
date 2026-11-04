@@ -88,7 +88,7 @@ Build, enrich, and play Spotify playlists from richer metadata than Spotify expo
 ### More on GitHub
 
 - [Portfolio](https://github.com/GregB712/Portofolio) · [Live](https://portofolio-one-liart.vercel.app) — full-stack AI/Data Science portfolio with Next.js, Prisma, Auth.js, Neon, Resend, and a database-backed admin dashboard
-- [Plain Language Summarization of Clinical Trials](https://github.com/GregB712/PLS_of_Clinical_Trials) — reproducible NLP pipeline with LLM summarization, RAG, evaluation, and a FastAPI + React web app
+- [Plain Language Summarization of Clinical Trials](https://github.com/GregB712/PLS_of_Clinical_Trials) · [Live](https://pls-of-clinical-trials.vercel.app) — reproducible NLP pipeline with LLM summarization, RAG, evaluation, and a FastAPI + React web app
 - [Probabilistic Demand Forecasting](https://github.com/GregB712/Probabilistic_Demand_Forecasting) — daily probabilistic demand distributions for item-store combinations
 
 ## Tech Stack
