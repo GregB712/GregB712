@@ -9,10 +9,11 @@ I build practical AI systems across machine learning, forecasting, NLP, retrieva
 [![GitHub](https://img.shields.io/badge/GitHub-GregB712-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GregB712)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-one-liart.vercel.app)
 
-- Based in Thessaloniki, Greece
+- Open to AI / Data Science opportunities
+- Based in Europe, open to relocation
 - MSc in Data and Web Science, Aristotle University of Thessaloniki
 - 4+ years of experience in data science, forecasting, ML, NLP, and production AI systems
-- Currently focused on LLM applications, RAG, semantic search, agentic workflows, and AI engineering
+- Focused on LLM applications, RAG, semantic search, agentic workflows, and AI engineering
 
 ## What I Build
 
@@ -26,107 +27,118 @@ I build practical AI systems across machine learning, forecasting, NLP, retrieva
 
 ### [Loomi Brain](https://github.com/GregB712/Loomi-Brain)
 
-A secure AI second-brain system for document intelligence, cited RAG, agentic workflows, MCP integrations, reusable skills, and LLM observability across local and cloud models.
+A secure AI second brain for document intelligence, cited RAG, agentic workflows, MCP integrations, reusable skills, memory, and LLM observability across local and cloud models.
 
-**Tech:** Python, LLMs, RAG, agents, MCP, retrieval, observability
+**Tech:** Python, LLMs, RAG, agents, memory, MCP, retrieval, observability
+
+### [Would You Rather App](https://github.com/GregB712/would_you_rather_app) · [Live demo](https://would-you-rather-app-six.vercel.app)
+
+Full-stack Next.js game with PostgreSQL-backed questions, voting, mode selection, Prisma migrations, seed/import tooling, and database-level duplicate prevention.
+
+**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Vercel, Neon
 
 ### [Custom Retrieval Pipeline with Reranker](https://github.com/GregB712/custom-retrieval-pipeline-with-reranker)
 
-End-to-end local retrieval pipeline combining BM25 sparse search, FAISS dense search, hybrid ranking, a custom scikit-learn reranker, evaluation metrics, CLI tooling, and a Streamlit demo.
+End-to-end local retrieval pipeline combining BM25 sparse search, FAISS dense search, hybrid ranking, a custom scikit-learn feature reranker, evaluation metrics, CLI tooling, and a Streamlit demo.
 
 **Tech:** Python, BM25, FAISS, hybrid search, reranking, scikit-learn, Streamlit
 
 ### [Custom Vector Database](https://github.com/GregB712/custom-vector-db)
 
-A lightweight educational vector database built from scratch with dense vector storage, metadata filtering, exact similarity search, graph-based approximate search, JSON persistence, examples, tests, and benchmarks.
+A lightweight educational vector database built from scratch with dense vector storage, metadata filtering, exact similarity search, graph-based approximate search, JSON persistence, a CLI, tests, and benchmarks.
 
 **Tech:** Python, vector search, ANN search, metadata filtering, algorithms
 
 ### [Custom Embedding Model](https://github.com/GregB712/custom_embedding_model)
 
-Domain-adaptive Sentence-BERT fine-tuning for semantic search and practical matching workflows such as product search, support tickets, job/CV matching, and retrieval evaluation.
+Domain-adaptive Sentence-BERT fine-tuning for semantic search, retrieval, product search, support ticket matching, and job/CV matching.
 
 **Tech:** Python, Sentence-BERT, embeddings, semantic search, fine-tuning, NLP
 
 ### [Custom BPE Tokenizer](https://github.com/GregB712/custom-bpe-tokenizer)
 
-From-scratch tokenizer engineering project implementing BPE, byte-level BPE, WordPiece, and SentencePiece-style unigram tokenization with benchmarking, FastAPI serving, Streamlit visualization, and CI-tested package design.
+From-scratch tokenizer engineering project implementing BPE, byte-level BPE, WordPiece, and SentencePiece-style unigram tokenization, benchmarked against Hugging Face tokenizers, with FastAPI serving, Streamlit visualization, and CI-tested package design.
 
 **Tech:** Python, NLP, tokenization, BPE, WordPiece, SentencePiece, Hugging Face, FastAPI
 
 ### [PDF to Markdown AI Converter](https://github.com/GregB712/pdf-to-markdown-ai-converter)
 
-AI-powered document conversion tool for turning PDFs into clean Markdown for documentation, knowledge-base, and RAG preparation workflows.
+AI-powered tool for converting PDFs into clean Markdown for documentation, knowledge-base, and RAG preparation workflows, with Gemini, OpenAI, Docling, local cleanup, and Markdown preview/export.
 
-**Tech:** TypeScript, PDF processing, Markdown, AI tooling, document processing, RAG preparation
+**Tech:** TypeScript, PDF processing, Markdown, document processing, RAG preparation
 
-### [Portfolio](https://github.com/GregB712/Portofolio)
+### [Azure Data Science Academy](https://github.com/GregB712/azure-data-science-academy) · [Live demo](https://azure-data-science-academy.vercel.app)
 
-Full-stack AI/Data Science portfolio with a database-backed project showcase, protected admin dashboard, GitHub metadata sync, contact management, custom analytics, and Vercel/Neon deployment.
+A self-paced course for designing, building, deploying, and operating data science and AI systems on Azure: Markdown lessons and labs, runnable Delta/medallion code, a retail-forecasting capstone, and a local dashboard with search and progress tracking.
 
-**Tech:** Next.js, TypeScript, React, Tailwind CSS, Prisma, PostgreSQL, Auth.js, Resend, Vercel
+**Tech:** Python, Azure Machine Learning, Databricks, Delta Lake, Microsoft Fabric, MLOps, RAG
 
-### [Would You Rather App](https://github.com/GregB712/would_you_rather_app)
+### [Scope](https://github.com/GregB712/scope) · [Live demo](https://scope-sooty.vercel.app)
 
-Full-stack Next.js game with PostgreSQL-backed questions, voting, mode selection, Prisma migrations, import/seed tooling, duplicate prevention, and a deployed web experience.
+AI-powered newsroom that imports daily Markdown briefings from Google Drive into a searchable editorial archive.
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Vercel, Neon
+**Tech:** Next.js, TypeScript, PostgreSQL (Neon), Drizzle ORM, full-text search, Clerk, Claude, Google Drive API
 
-### [Plain Language Summarization of Clinical Trials](https://github.com/GregB712/PLS_of_Clinical_Trials)
+### [Mixloom](https://github.com/GregB712/mixloom)
 
-Master's thesis project focused on generating plain-language summaries of clinical trial outcomes to make medical information more accessible.
+Build, enrich, and play Spotify playlists from richer metadata than Spotify exposes: export to Postgres, enrich with MusicBrainz artist-country and audio features, then curate with metadata filters and DJ-style key/tempo ordering. Web app + CLI.
 
-**Tech:** NLP, transformers, DistilBERT, Mistral-7B, summarization, evaluation
+**Tech:** Python, FastAPI, React, TypeScript, Vite, PostgreSQL, Docker, Spotify API, MusicBrainz
 
-### [Probabilistic Demand Forecasting](https://github.com/GregB712/Probabilistic_Demand_Forecasting)
+### More on GitHub
 
-Demand forecasting challenge solution for predicting daily probabilistic demand distributions across item-store combinations.
-
-**Tech:** time series, forecasting, machine learning, probabilistic modeling, retail demand
+- [Portfolio](https://github.com/GregB712/Portofolio) · [Live](https://portofolio-one-liart.vercel.app) — full-stack AI/Data Science portfolio with Next.js, Prisma, Auth.js, Neon, Resend, and a database-backed admin dashboard
+- [Plain Language Summarization of Clinical Trials](https://github.com/GregB712/PLS_of_Clinical_Trials) — reproducible NLP pipeline with LLM summarization, RAG, evaluation, and a FastAPI + React web app
+- [Probabilistic Demand Forecasting](https://github.com/GregB712/Probabilistic_Demand_Forecasting) — daily probabilistic demand distributions for item-store combinations
 
 ## Tech Stack
 
-**Programming and data:** Python, SQL, TypeScript, Java, C++, Pandas, NumPy, Jupyter
+**Programming and data:** Python, SQL, TypeScript, Pandas, NumPy, MongoDB, PostgreSQL, vector databases, FAISS, data pipelines
 
-**Machine learning and forecasting:** scikit-learn, XGBoost, LightGBM, statistical forecasting, time-series analysis, feature engineering, backtesting, model evaluation
+**Machine learning and forecasting:** scikit-learn, XGBoost, LightGBM, statistical forecasting, time-series analysis, predictive analytics, ensemble learning, feature engineering, backtesting
 
-**Deep learning and NLP:** PyTorch, TensorFlow, Hugging Face Transformers, Sentence-BERT, embeddings, semantic search, summarization, information extraction
+**Deep learning and NLP:** PyTorch, TensorFlow, neural networks, Hugging Face Transformers, Sentence-BERT, embeddings, tokenization, semantic search
 
-**Generative AI and retrieval:** OpenAI API, LangChain, MCP, RAG, vector databases, FAISS, prompt engineering, LLM evaluation, agentic workflows
+**Generative AI:** OpenAI API, LangChain, MCP, RAG, prompt engineering, agentic AI, LLM applications, AI assistants, information retrieval, document processing
 
-**Backend, MLOps, and cloud:** FastAPI, PostgreSQL, MongoDB, Prisma, Docker, Kubernetes, AWS, CI/CD, Vercel, Neon
+**Backend, MLOps, and cloud:** FastAPI, Docker, Kubernetes, Git, CI/CD, AWS, Azure, API development, cloud-native AI systems
 
-**Frontend and product engineering:** Next.js, React, TypeScript, Tailwind CSS, full-stack app architecture, admin dashboards, analytics
+**Frontend and full-stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, Vercel, Neon
 
 ## Experience
 
-**Data Scientist, Deus Ex Machina | Sep 2025 - Present**
+**Data Scientist, Deus Ex Machina | Sep 2025 - Sep 2026**
 
-- Building AI applications with OpenAI APIs, LangChain, FastAPI, and cloud-native architectures
-- Developing RAG systems with embeddings, vector databases, semantic search, and retrieval evaluation
-- Creating agentic workflows and AI assistants for information retrieval, document processing, and decision support
+- Designed and deployed AI applications using OpenAI APIs, LangChain, FastAPI, and cloud-native architectures
+- Built RAG systems using embeddings, vector databases, and semantic search
+- Developed agentic workflows and AI assistants for information retrieval, document processing, and decision support
+- Implemented NLP pipelines combining LLMs, clustering, classification, information extraction, and semantic retrieval
+- Productionized AI solutions with engineering teams through APIs, containerization, and deployment workflows
+- Evaluated LLM performance using structured testing, prompt optimization, and retrieval quality metrics
 
 **Data Scientist, Dataviva | Nov 2022 - Oct 2024**
 
-- Built forecasting and predictive analytics solutions for retail and supply chain datasets
-- Developed ensemble ML models, automated pipelines, backtesting workflows, and reporting systems
+- Designed and optimized ML and statistical forecasting models for retail demand across large-scale product and store datasets
+- Developed predictive analytics solutions using ensemble learning and feature engineering to improve forecast accuracy
+- Built automated pipelines for data preparation, training, evaluation, forecasting, and reporting
+- Ran model validation, backtesting, error analysis, and performance monitoring for production forecasts
 - Led proof-of-concept initiatives and technical demonstrations for enterprise clients
 
 **Application Consultant / Engineer, Veltio | Oct 2021 - Nov 2022**
 
 - Developed client-specific analytics and forecasting applications for supply chain optimization
-- Translated operational requirements into data-driven solutions and supported implementation in customer environments
+- Translated operational requirements into data-driven solutions and supported forecasting model deployment in customer environments
 
 ## Education
 
-- **MSc Data and Web Science**, Aristotle University of Thessaloniki
-- **BSc Computer Science**, Aristotle University of Thessaloniki
-- **Erasmus+ Computer Science / Software Engineering**, Malardalen University
+- **MSc Data and Web Science**, Aristotle University of Thessaloniki | Oct 2021 - Sep 2024
+- **Erasmus+ Computer Science / Software Engineering**, Mälardalen University | Jan 2021 - Jun 2021
+- **BSc Computer Science**, Aristotle University of Thessaloniki | Sep 2017 - Sep 2021
 
 ## Languages
 
 - Greek: native
-- English: C2 proficiency
+- English: C2 Certificate of Proficiency
 
 ## Current Focus
 
@@ -134,6 +146,7 @@ Demand forecasting challenge solution for predicting daily probabilistic demand 
 - Improving retrieval quality with hybrid search, reranking, embeddings, and evaluation
 - Developing AI assistants for document intelligence and workflow automation
 - Sharing more practical ML, NLP, and Generative AI projects on GitHub
+- Looking for my next Data Science / AI Engineering role (open to relocation)
 
 ## GitHub Activity
 
